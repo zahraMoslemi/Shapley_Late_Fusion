@@ -1,0 +1,28 @@
+# large data / model folders
+tcga/
+polymnist/
+raw_data/
+checkpoints/
+NACC/
+
+# data files
+*.tsv.gz
+*.tsv
+*.csv
+*.xlsx
+*.h5
+*.npy
+*.npz
+*.zip
+*.gz
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+# junk
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
